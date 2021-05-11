@@ -188,7 +188,7 @@ h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:inherit}ul{margin:0px;padding:0px}li{list-st
 }
 
 #intro .intro-content h2 {
-  color: #020202;
+  color: #df8008;
   margin-bottom: 30px;
   font-size: 24px;
   font-weight: 700;
@@ -197,7 +197,7 @@ h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:inherit}ul{margin:0px;padding:0px}li{list-st
 
 #intro .intro-content h2 span {
   color: #fff;
-  font-size: 40px;
+  font-size: 35px;
   text-transform: uppercase;
 
   background: -webkit-linear-gradient(#004896, #17a2b8);
