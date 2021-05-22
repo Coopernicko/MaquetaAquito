@@ -620,7 +620,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 40px;
   background: #fff;
   transition: 0.4s;
-  box-shadow: 0 0 6px #f0592a;
   /* border: 1px solid #ff377b; */
   position: relative;
   overflow: hidden;
@@ -659,7 +658,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .box .icon i:before {
-  background: #4ca6db;
+  background: #c3c3c3;
   /* background: linear-gradient(45deg, #E91E63 0%, #405ece 100%); */
   background-clip: border-box;
   -webkit-background-clip: text;
